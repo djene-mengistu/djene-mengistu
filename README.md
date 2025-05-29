@@ -1,9 +1,9 @@
 ### Hi there, I'm Sime, Dejene Mengistu 👋
 
-- 🔭 I’m currently working on data-efficient deep learning-based algorithms for industrial machine vision applications.
-- 🌱 I’m currently studying weakly-supervised and unsupervised algorithms for defect segmentation and anomaly detection.
-- 👯 I’m looking to collaborate on unsupervised segmentation methods using multi-modal datasets of image, text and audio for general purpose method.
-- 👯 I'm also interested in medical image analysis, anomaly detection and machinery fault diagnosis.
+- 🔭 I’m currently working on data- and annotation-efficient algorithms for industrial machine vision applications.
+- 🌱 Weakly-supervised and unsupervised algorithms for defect segmentation and anomaly detection.
+- 👯 I’m looking to collaborate on related topics of image segmentation in domains such as medical imaging and industrial machine vision.
+- 👯 I'm also interested in anomaly detection and machinery fault diagnosis.
 - 📫 How to reach me: djene.mengistu@gmail.com
 ### Other public profiles   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejene-mengistu-37a44724/)
