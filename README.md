@@ -1,20 +1,19 @@
 ### Hi there, I'm Sime, Dejene Mengistu 👋
 
-- 📌 I’m currently working on data- and annotation-efficient methods for industrial machine vision applications.
-- 🌱 Weakly-supervised and unsupervised algorithms for defect segmentation and anomaly detection.
-- 🚀 I’m looking to collaborate on related topics of image segmentation in domains such as medical imaging and industrial machine vision.
-- 👯 I'm also interested in anomaly detection and machinery fault diagnosis.
+- 📌 I’m currently working on data- and annotation-efficient learning methods for industrial AI applications.
+- 🌱 Semi-supervised, Weakly-supervised and unsupervised algorithms for segmentation and anomaly detection.
 - 🧠 Highly interested on Vision-Language Models, Industrial foundation models.
 - 🔥 Text-Visual grounding, Semantic reasoning, Visual Chain-of-Thought.
+- 🤝 I’m looking to collaborate on related topics in domains such as medical imaging and industrial applications.
 - 📫 How to reach me: djene.mengistu@gmail.com
 
-### Other public profiles   
+### Public profiles   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejene-mengistu-37a44724/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-006B5F?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Dejene-Mengistu)
 [![ORCID](https://img.shields.io/badge/ORCID-2E7D32?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7265-5765)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-2C3E50?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=YNUTFG4AAAAJ&hl=en)
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+<h3 align="left">🤖 Skills:</h3>
 
 <!-- Programming & Core -->
 <b>💻 Programming & Core</b>
