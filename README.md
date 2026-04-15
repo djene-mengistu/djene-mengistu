@@ -16,35 +16,43 @@
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 
-<div align="left" style="white-space: nowrap; overflow-x: auto; padding: 10px 0;">
-
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-<a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/></a>
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/></a>
-<a href="https://www.photoshop.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.fast.ai/"><img src="https://raw.githubusercontent.com/fastai/fastai/master/docs/images/logo.png" width="40"/></a>
-<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/></a>
-<a href="https://www.langchain.com/"><img src="https://langchain.com/favicon.ico" width="40"/></a>
-<a href="https://onnx.ai/"><img src="https://onnx.ai/images/onnx_logo.png" width="40"/></a>
-<a href="https://www.tensorflow.org/js"><img src="https://www.tensorflow.org/images/tfjs_logo.png" width="40"/></a>
-<a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40"/></a>
-<a href="https://www.weka.io/"><img src="https://www.weka.io/wp-content/uploads/2020/12/weka-logo-blue.svg" width="40"/></a>
-<a href="https://www.kaggle.com/"><img src="https://www.kaggle.com/static/images/site-logo.png" width="40"/></a>
-<a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="40"/></a>
-<a href="https://www.nvidia.com/en-us/deep-learning-ai/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" width="40"/></a>
-<a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></a>
-<a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-<a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/></a>
-
+<!-- Programming & Core -->
+<b>💻 Programming & Core</b>
+<div style="white-space: nowrap; overflow-x: auto; padding: 8px 0;">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" style="margin-right:10px;"/></a>
 </div>
+
+<!-- Machine Learning / Deep Learning -->
+<b>🧠 Machine Learning & AI</b>
+<div style="white-space: nowrap; overflow-x: auto; padding: 8px 0;">
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" style="margin-right:10px;"/></a>
+</div>
+
+<!-- IDEs & Editors -->
+<b>🧩 IDEs & Editors</b>
+<div style="white-space: nowrap; overflow-x: auto; padding: 8px 0;">
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" style="margin-right:10px;"/></a>
+</div>
+
+<!-- Tools & Platforms -->
+<b>🛠️ Tools & Platforms</b>
+<div style="white-space: nowrap; overflow-x: auto; padding: 8px 0;">
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40" style="margin-right:10px;"/></a>
+<a href="https://www.kaggle.com/"><img src="https://www.kaggle.com/static/images/site-logo.png" width="40" style="margin-right:10px;"/></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" style="margin-right:10px;"/></a>
+</div>
+
