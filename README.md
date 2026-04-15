@@ -8,10 +8,10 @@
 - 🔥 Text-Visual grounding, Semantic reasoning, Visual Chain-of-Thought.
 - 📫 How to reach me: djene.mengistu@gmail.com
 ### Other public profiles   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejene-mengistu-37a44724/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Dejene-Mengistu)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-7265-5765)
-[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-0077B5?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.co.uk/citations?user=YNUTFG4AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dejene-mengistu-37a44724/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-006B5F?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Dejene-Mengistu)
+[![ORCID](https://img.shields.io/badge/ORCID-2E7D32?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7265-5765)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-2C3E50?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=YNUTFG4AAAAJ&hl=en)
 
 
 <h3 align="left">Languages and Tools:</h3>
